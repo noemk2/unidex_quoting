@@ -1,6 +1,6 @@
 import { Token } from '@uniswap/sdk-core'
 import { FeeAmount } from '@uniswap/v3-sdk'
-import { USDC_TOKEN, WETH_TOKEN, WMATIC_TOKEN, MTKu_TOKEN } from './libs/constants'
+import { WMATIC_TOKEN, MTKu_TOKEN } from './libs/constants'
 
 // Inputs that configure this example to run
 export interface ExampleConfig {
